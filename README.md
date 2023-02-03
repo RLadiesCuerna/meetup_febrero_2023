@@ -1,6 +1,6 @@
 
 
-# Introducción a los paradigmas de programación en R
+# Mis primeros programas en R
 
 
 ¡Les damos la bienvenida!
@@ -12,7 +12,8 @@ En este meetup aprenderemos:
 - Cómo procesar de datos de entrada para obtener un resultado.
 
 ## Fecha 
-Jueves 26 de enero de 2023
+
+Jueves 09 de febrero de 2023
 
 
 ## Instructora
